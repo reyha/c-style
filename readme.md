@@ -1254,7 +1254,7 @@ printf( "I think I'm going to %s,\n"
 
 
 
-#### C isn't object-oriented, and you shouldn't pretend it is
+#### C is *not*  object-oriented like C++, and you shouldn't pretend it is
 
 C doesn't have classes, methods, inheritance, (nice) object encapsulation, or real polymorphism. Not to be rude, but: **deal with it**. C might be able to achieve crappy, complicated imitations of those things, but it's just not worth it.
 
